@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+.bar
+{
+    background-image: linear-gradient(170deg, rgb(192, 147, 147), rgb(198, 93, 198),rgb(140, 119, 216));
+
+    width: 95vw;
+    height: 50px;
+    display: flex;
+    /* border: 2px solid black; */
+    border-radius: 100px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    font-family: 'Playfair Display', serif;
+    color: rgb(212, 183, 129);
+  
+}
+.butt
+{
+   position: absolute;
+   left: 3%;
+    width: 50px;
+    background-color: rgba(0,0,0,0);
+}
+
+.menuContainer
+{
+    top: 60px;
+}

@@ -1,0 +1,22 @@
+const Sdata=[
+{imgsrc:"https://flxt.tmsimg.com/assets/p14652158_b_v13_az.jpg", title:"A Netflix Original Series",sname:"Dark", link:"https://www.netflix.com/in/,title/80100172"},
+{imgsrc:"https://occ-0-32-37.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABV5lteI3eHet1nPBQKC_uEChESjqQfYpRwMWLR0wULt52odnxQtG69JNFDj9N4maZWJWDFZyi2sc1YzZ8mKE4Ajmt7Btva1CnWagGbYXVMp3t4OETM4LwiD70dHu-qWUbBAesQ.jpg?r:c68" ,title:"A Netflix Original Series" ,sname:"Stranger Things" ,link:"https://www.netflix.com/in/title/80057281"},
+{imgsrc:"https://townsquare.media/site/442/files/2022/09/attachment-EN-US_WED1_Main_Vertical_27x40_RGB_PRE.jpg?w:980&q:75" ,title:"A Netflix Original Series" ,sname:"Wednesday" ,link:"https://www.netflix.com/in/title/81231974"},
+{imgsrc:"https://occ-0-325-778.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcHOnc3fjVP3diaJg-iIqpO2mLSLMWw2oDoY5oI_QHIeftVFrd8C8MV2qThgpW1G-MF2dcRArptuhxtw1kB_zK8YXYGdPaWvXSOz.jpg?r:2bd" ,title:"A Netflix Original Series" ,sname:"Sex Life" ,link:"https://www.netflix.com/in/title/80991848"},
+{imgsrc:"https://hips.hearstapps.com/hmg-prod/images/screen-shot-2019-12-16-at-10-16-52-am-1576509427.png" ,title:"A Netflix Original Series" ,sname:"The Witcher" ,link:"https://www.netflix.com/in/title/80189685"},
+{imgsrc:"https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/08/31/993600-mh.jpg" ,title:"A Netflix Original Series" ,sname:"Money Hiest" ,link:"https://www.netflix.com/in/title/80192098"},
+{imgsrc:"https://m.media-amazon.com/images/M/MV5BYTU3NWI5OGMtZmZhNy00MjVmLTk1YzAtZjA3ZDA3NzcyNDUxXkEyXkFqcGdeQXVyODY5Njk4Njc@._V1_.jpg" ,title:"A Netflix Original Series" ,sname:"Breaking Bad" ,link:"https://www.netflix.com/in/title/70143836"},
+{imgsrc:"https://i2.wp.com/www.womensrepublic.net/wp-content/uploads/2020/05/223A970A-DB00-43D8-BD35-F3F7BCD2F347.jpeg?fit:1757%2C1200&ssl:1" ,title:"A Netflix Original Series" ,sname:"Sex Education" ,link:"https://www.netflix.com/in/title/80197526"},
+{imgsrc:"https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQSMcH7d0gQjQ7W5mJmJNGAw6fzlWzoHeohNtmmbcFx6GA2gaWkX6qmIx7mJSOqk7y0t9sNfdzePXYTKqhDnZjjzPj1fhK9PD3og9JAH4NWAyQ_JUmPFzc0yUcV6he_IYdKJzz97ULbOVVGACnP6SmlxDv34.jpg?r:ca3" ,title:"A Netflix Original Series" ,sname:"Vikings" ,link:"https://www.netflix.com/in/title/70301870"},
+{imgsrc:"https://i.ytimg.com/vi/lptctjAT-Mk/maxresdefault.jpg" , title:"A Netflix Original Series" , sname:"Emily In Paris" , link:"https://www.netflix.com/in/title/81037371"},
+{imgsrc:"https://i.ytimg.com/vi/lptctjAT-Mk/maxresdefault.jpg" ,title:"A Netflix Original Series", sname:"Emily In Paris" ,link:"https://www.netflix.com/in/,title/81037371",imgsrc:"https://www.robot.co.jp/special/aliceinborderland/ogp_en.jpg" ,title:"A Netflix Original Series", sname:"Alice in Borderland" ,link:"https://www.netflix.com/in/title/80200575"},
+{imgsrc:"https://tv-fanatic-res.cloudinary.com/iu/s--Sh6TVoNW--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1638231416/lost-in-space-season-3-poster.jpg" ,title:"A Netflix Original Series" ,sname:"Lost In Space" ,link:"https://www.netflix.com/in/,title/80104198"},
+{imgsrc:"https://occ-0-41-586.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABSwAy54MFCr4BpB_ytXA3zI71sdyeATtSvxVdn4y4-_W1v-PPPuQhIoaQb-uzn8pRP8dL14sEeLLipLJEiOGuyHpIfy5uitQ8TWU_Lc0EUgdJNZOhXM4UGuuvZSdephRkkk5pg.jpg?r:48e" ,title:"A Netflix Original Series" ,sname:"The Serpant" ,link:"https://www.netflix.com/in/title/80206099"},
+{imgsrc:"https://images.indianexpress.com/2021/10/Suid-Game-Netflix-1200by667.jpg" ,title:"A Netflix Original Series" ,sname:"Squid Game" ,link:"https://www.netflix.com/in/title/81040344"},
+{imgsrc:"https://economictimes.indiatimes.com/thumb/msid-95774741,width-960,height-540,resizemode-4,imgsize-49102/the-walking-dead-when-will-season-11-be-on-netflix-know-all-details-here.jpg?from:mdr" ,title:"A Netflix Original Series" ,sname:"The Walking Dead" ,link:"https://www.netflix.com/in/title/70177057"},
+{imgsrc:"https://occ-0-2774-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYB0QEproL5nl8FeuTCJ-zGh-BWJ_VuZC9ekGkV3y3sbBhCpNCTV8Cfu5hHwR9LMws0Gx66nvqzsoi9sOeczpO2-DiZY-jLPk6ff.jpg?r:980" ,title:"A Netflix Original Series" ,sname:"13 Reasons Why" ,link:"https://www.netflix.com/in/title/80117470"}
+
+
+];
+
+export default Sdata;

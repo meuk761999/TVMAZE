@@ -1,0 +1,95 @@
+
+.mainContainer
+  {
+    background-color: rgba(255, 255, 255, 0);
+    /* border: 2px solid green; */
+    width: 30vw;
+    height: 210px;
+  }
+
+  .container
+  {
+    
+    background-color: rgba(255, 255, 255, 0);
+    position: absolute;
+    /* border: 2px solid blue;  */
+    width: 30vw;
+    height: 210px;
+    left:   0vw; /* move between -30vw to 0vw */
+
+  }
+
+  .hide
+  {
+    display: none;
+  }
+
+
+  .option
+  {
+    margin: auto;
+    /* border-radius: 0px 10px 10px 0px ; */
+    border-radius: 50px;
+    height: 38px;
+    border: 1px solid rgb(230, 183, 190);
+    /* border: 1px solid rgb(214, 102, 119); */
+    
+    /* background-color: rgb(234, 177, 186); */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    background-image: linear-gradient(170deg, rgb(192, 147, 147), rgb(198, 93, 198),rgb(140, 119, 216));
+
+
+    
+  }
+  .option:hover
+  {
+    transition: 1s;
+    scale: 1.1;
+    /* border-radius: 0px 12px 12px 0px ; */
+    border-radius: 50px;
+    cursor: pointer;
+
+  }
+
+
+
+  .logoContainer
+  {background-color: rgba(255, 255, 255, 0);
+    /* border: 2px solid rgb(17, 180, 191); */
+    
+    height: 70%;
+    width: 20%;
+    padding: 0px 0px 0px 10px ;
+}
+
+  .nameContainer
+  {
+    /* border: 1px solid red; */
+    
+    background-color: rgba(255, 255, 255, 0);
+    width: 80%;
+
+  }
+  .name
+   {
+    font-size: large;
+    text-align: center;
+    text-underline-offset: 2px;
+    text-decoration-line: underline;
+    
+    background-color: rgba(255, 255, 255, 0);
+}
+img{
+    background-color: rgba(255, 255, 255, 0);
+    width: 100%;
+    height: 100%;
+    
+    /* background-color: rgb(234, 177, 186); */
+    
+}
+
+
+
